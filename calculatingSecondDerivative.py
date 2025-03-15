@@ -1,3 +1,7 @@
+''' 
+This file computes the second derivative and saves it as a matrix. For most applications, it needs to be run on an HPC.
+'''
+
 import os
 from simFrame.environment import Environment
 import simFrame.permittivities as permittivities
